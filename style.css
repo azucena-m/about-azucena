@@ -1,0 +1,29 @@
+h1 {
+    color: blueviolet;
+    text-decoration: underline;
+    background-color: bisque;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+h2 {
+    color: hotpink;
+    text-align: center;
+}
+
+ul, p{
+    list-style-position: inside;
+    text-align: center;
+}
+
+div {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 400px;
+    width: 600px;
+}
